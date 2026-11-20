@@ -1,0 +1,38 @@
+﻿# Carpetas generadas por Unity (en cualquier proyecto del repo)
+**/[Ll]ibrary/
+**/[Tt]emp/
+**/[Oo]bj/
+**/[Bb]uild/
+**/[Bb]uilds/
+**/[Ll]ogs/
+**/[Uu]ser[Ss]ettings/
+**/[Mm]emoryCaptures/
+**/[Rr]ecordings/
+
+# IDEs
+.vs/
+.vscode/
+.idea/
+*.csproj
+*.sln
+*.suo
+*.user
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# Builds y otros
+*.apk
+*.aab
+sysinfo.txt
+crashlytics-build.properties
+.gradle/
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+
+# Restos de builds de Unity
+**/*_BackUpThisFolder_ButDontShipItWithYourGame/
+**/*_BurstDebugInformation_DoNotShip/

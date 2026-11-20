@@ -1,0 +1,17 @@
+C:\Mia\CLASE\AR-VR\Modulos\Modulo 1\Ejemplos\Example1\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\GAToUnityCallbacks.h
+C:\Mia\CLASE\AR-VR\Modulos\Modulo 1\Ejemplos\Example1\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\MacroEnd.h
+C:\Mia\CLASE\AR-VR\Modulos\Modulo 1\Ejemplos\Example1\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\MacroHeaderBegin.h
+C:\Mia\CLASE\AR-VR\Modulos\Modulo 1\Ejemplos\Example1\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\MacroSourceBegin.h
+C:\Mia\CLASE\AR-VR\Modulos\Modulo 1\Ejemplos\Example1\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\UGAApplication.h
+C:\Mia\CLASE\AR-VR\Modulos\Modulo 1\Ejemplos\Example1\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\UGAConfiguration.h
+C:\Mia\CLASE\AR-VR\Modulos\Modulo 1\Ejemplos\Example1\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\UGADebug.h
+C:\Mia\CLASE\AR-VR\Modulos\Modulo 1\Ejemplos\Example1\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\UGAEvents.h
+C:\Mia\CLASE\AR-VR\Modulos\Modulo 1\Ejemplos\Example1\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\UGAInput.h
+C:\Mia\CLASE\AR-VR\Modulos\Modulo 1\Ejemplos\Example1\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\UGASoftKeyboard.h
+C:\Mia\CLASE\AR-VR\Modulos\Modulo 1\Ejemplos\Example1\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\UGASoftKeyboardCallbacks.h
+C:\Mia\CLASE\AR-VR\Modulos\Modulo 1\Ejemplos\Example1\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\UGATypes.h
+C:\Mia\CLASE\AR-VR\Modulos\Modulo 1\Ejemplos\Example1\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\UGAVersion.h
+C:\Mia\CLASE\AR-VR\Modulos\Modulo 1\Ejemplos\Example1\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\UnityToGACallbacks.h
+C:\Mia\CLASE\AR-VR\Modulos\Modulo 1\Ejemplos\Example1\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\UnityToGAConfigurationCallbacks.h
+C:\Mia\CLASE\AR-VR\Modulos\Modulo 1\Ejemplos\Example1\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\UnityToGAKeyEventCallbacks.h
+C:\Mia\CLASE\AR-VR\Modulos\Modulo 1\Ejemplos\Example1\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\UnityToGAMotionEventCallbacks.h
