@@ -128,7 +128,7 @@ git checkout main       # volver a la versión actual
 
 ## 👤 Autoría
 
-**Profesor/a:** *Moisés Martínez Gutiérrez*
+**Profesor:** *Moisés Martínez Gutiérrez*
 **Centro:** *CPIFP Alan Turing*
 **Curso académico:** 2026/2027
 
