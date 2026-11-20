@@ -128,8 +128,8 @@ git checkout main       # volver a la versión actual
 
 ## 👤 Autoría
 
-**Profesor/a:** *Nombre Apellidos*
-**Centro:** *Nombre del centro*
+**Profesor/a:** *Moisés Martínez Gutiérrez*
+**Centro:** *CPIFP Alan Turing*
 **Curso académico:** 2026/2027
 
 > Material docente para uso educativo dentro del Curso de Especialización en Desarrollo de Videojuegos y Realidad Virtual.
