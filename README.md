@@ -10,7 +10,8 @@ Aquí se recogen los proyectos de Unity, scripts y recursos desarrollados durant
 
 | Elemento | Versión / detalle |
 |---|---|
-| **Unity** | `6000.x LTS` *(indicar versión exacta usada en el curso)* |
+| **Unity** | `6000.0.66f2` o superior (Meta recomienda Unity 6.1 o posterior) |
+| **Plugin XR** | OpenXR (XR Plug-in Management) |
 | **Módulos de Unity** | Android Build Support (+ OpenJDK y Android SDK & NDK Tools) |
 | **Meta XR SDK** | Meta XR All-in-One SDK `vXX` *(indicar versión)* |
 | **Dispositivo** | Meta Quest (modo desarrollador activado) |
